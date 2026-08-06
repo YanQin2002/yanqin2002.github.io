@@ -3,7 +3,8 @@ _site/
 
 # Ignore local Ruby/Bundler state
 .bundle/
-vendor/
+/vendor/
+/assets/js/vendor/
 
 # Ignore the directory for local files during development
 local/
