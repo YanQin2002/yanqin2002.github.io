@@ -1,0 +1,23 @@
+- year: "2026"
+  title: "CVPR WorldArena Challenge"
+  subtitle: "3rd Place · Track 1 (Video Quality)"
+  image: "/files/award/2026-cvpr-worldarena-third-place.png"
+  alt: "CVPR 2026 WorldArena Challenge Track 1 third place certificate"
+
+- year: "2026"
+  title: "ICRA What Bimanuals Can Do (WBCD)"
+  subtitle: "Deformable Object Manipulation Track · First Prize"
+  image: "/files/award/2026-icra-wbcd-first-prize.jpg"
+  alt: "ICRA 2026 WBCD deformable object manipulation track first prize certificate"
+
+- year: "2025"
+  title: "NeurIPS MARS Challenge"
+  subtitle: "Manipulation Track · Champion"
+  image: "/files/award/2025-neurips-mars-champion.jpg"
+  alt: "NeurIPS 2025 MARS Challenge champion certificate"
+
+- year: "2025"
+  title: "IEEE IROS AgiBot World Challenge"
+  subtitle: "Manipulation Track · Third Place"
+  image: "/files/award/2025-agibotworld-challenge.jpg"
+  alt: "IEEE IROS 2025 AgiBot World Challenge third place certificate"
