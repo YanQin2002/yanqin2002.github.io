@@ -1,5 +1,5 @@
 locale                   : "en-US"
-title                    : "Yan Qin (秦言)"
+title                    : "Yan Qin / Homepage"
 title_separator          : "-"
 name                     : "Yan Qin"
 description              : &description "Yan Qin's academic homepage — Embodied AI and robotics research."
@@ -9,7 +9,7 @@ repository               : "YanQin2002/yanqin2002.github.io"
 
 author:
   avatar           : "avatar.jpg"
-  name             : "Yan Qin (秦言)"
+  name             : "Yan Qin 秦言"
   pronouns         :
   bio              : "PhD student at HKUST(GZ), focusing on Embodied AI."
   location         : "Guangzhou, China"
