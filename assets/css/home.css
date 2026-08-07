@@ -23,6 +23,30 @@ body {
   font-size: 15px;
 }
 
+.author__avatar img {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+@media (min-width: 1024px) {
+  .author__avatar img {
+    width: 175px;
+    height: 175px;
+  }
+}
+
+@media (min-width: 925px) {
+  .page__inner-wrap {
+    float: none !important;
+    width: 100%;
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
 .masthead .greedy-nav a {
   color: #7f858c;
 }
@@ -57,7 +81,6 @@ body {
 .main-heading {
   margin: 0 auto 1.15rem;
   color: var(--accent);
-  font-size: clamp(1.5rem, 2.6vw, 1.95rem);
   letter-spacing: -0.025em;
   line-height: 1.25;
   text-align: center;
@@ -67,7 +90,7 @@ body {
   max-width: 980px;
   margin: 0 auto;
   color: #4f5459;
-  font-size: clamp(0.92rem, 1.45vw, 1.05rem);
+  font-size: 15px;
   font-weight: 700;
   line-height: 1.6;
   text-align: center;
@@ -120,6 +143,7 @@ body {
 
 .research-tags span {
   padding: 0.3rem 0.7rem;
+  font-size: 12px;
 }
 
 .experience-container {
