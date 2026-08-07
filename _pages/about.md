@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-description: "Yan Qin is a PhD student at HKUST(GZ), working on Embodied AI and robotic manipulation."
+description: "Yan Qin is a PhD student at HKUST(GZ), working on Embodied AI, robotic manipulation, world models, and VLA models."
 stylesheets:
   - /assets/css/home.css
 redirect_from:
@@ -11,15 +11,17 @@ redirect_from:
 
 <h1 class="main-heading">Hi, I'm Yan Qin <span aria-hidden="true">👋</span></h1>
 
-<p class="intro-copy">
-  I am a PhD student at the <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener">Hong Kong University of Science and Technology (Guangzhou)</a>, focusing on <strong>Embodied AI</strong>. My research interests center on robot learning, manipulation, and visual representation learning.
-</p>
+<div class="intro-copy">
+  <p class="intro-line">I am a PhD student at the <a class="intro-keyword" href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener">Hong Kong University of Science and Technology (Guangzhou)</a>, specializing in <span class="intro-keyword">Embodied AI</span>.</p>
+  <p class="intro-line">My research focuses on <span class="intro-keyword">robotic manipulation</span>, <span class="intro-keyword">world models</span>, and <span class="intro-keyword">VLA models</span>.</p>
+  <p class="intro-line">I am always open to <span class="intro-keyword">research collaborations</span> and would be delighted to explore <span class="intro-keyword">research or internship opportunities</span>.</p>
+</div>
 
 <div class="research-tags" aria-label="Research interests">
   <span>Embodied AI</span>
-  <span>Robot Learning</span>
   <span>Robotic Manipulation</span>
-  <span>3D Vision</span>
+  <span>World Models</span>
+  <span>VLA Models</span>
 </div>
 
 <h2 id="education">Education</h2>
@@ -30,8 +32,7 @@ redirect_from:
     <div class="experience-info">
       <strong>The Hong Kong University of Science and Technology (Guangzhou)</strong>
       <span class="entry-date">Jan. 2026 – Jul. 2029 (expected)</span>
-      <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/" target="_blank" rel="noopener">Robotics and Autonomous Systems</a><br>
-      PhD Student in the Humanoid Computing Lab, supervised by Prof. Renjing Xu.
+      <span class="experience-detail">PhD Student · Humanoid Computing Lab · <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/" target="_blank" rel="noopener">Robotics and Autonomous Systems</a> · Prof. Renjing Xu</span>
     </div>
   </article>
 
@@ -40,8 +41,7 @@ redirect_from:
     <div class="experience-info">
       <strong>The Hong Kong University of Science and Technology</strong>
       <span class="entry-date">Aug. 2024 – Oct. 2025</span>
-      <a href="https://ece.hkust.edu.hk/" target="_blank" rel="noopener">Department of Electronic &amp; Computer Engineering</a><br>
-      PhD Student in Electronic and Computer Engineering.
+      <span class="experience-detail">PhD Student · <a href="https://ece.hkust.edu.hk/" target="_blank" rel="noopener">Electronic &amp; Computer Engineering</a></span>
     </div>
   </article>
 
@@ -50,8 +50,7 @@ redirect_from:
     <div class="experience-info">
       <strong>Shenzhen University</strong>
       <span class="entry-date">Sep. 2020 – Jun. 2024</span>
-      <a href="https://csse.szu.edu.cn/" target="_blank" rel="noopener">College of Computer Science and Software Engineering</a><br>
-      B.Sc. in Physics · GPA 90.2/100 · Rank 2/58.
+      <span class="experience-detail">B.Sc. in Physics · <a href="https://cpoe.szu.edu.cn/en/" target="_blank" rel="noopener">College of Physics and Optoelectronic Engineering</a> · GPA 90.2/100 · Rank 2/58</span>
     </div>
   </article>
 </div>
