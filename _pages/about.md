@@ -50,7 +50,7 @@ redirect_from:
     <div class="experience-info">
       <strong>Shenzhen University</strong>
       <span class="entry-date">Sep. 2020 – Jun. 2024</span>
-      <span class="experience-detail">B.Sc. in Physics · <a href="https://cpoe.szu.edu.cn/en/" target="_blank" rel="noopener">College of Physics and Optoelectronic Engineering</a> · GPA 90.2/100 · Rank 2/58</span>
+      <span class="experience-detail">B.Sc. in Physics · <a href="https://cpoe.szu.edu.cn/en/" target="_blank" rel="noopener">College of Physics and Optoelectronic Engineering</a></span>
     </div>
   </article>
 </div>
