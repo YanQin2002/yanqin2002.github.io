@@ -154,11 +154,12 @@ body {
 
 .experience-card {
   display: flex;
-  align-items: center;
-  gap: 0.75rem;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.8rem;
   box-sizing: border-box;
-  min-height: 124px;
-  padding: 0.9rem;
+  min-height: 218px;
+  padding: 1rem;
   border: 1px solid var(--line);
   border-radius: 16px;
   background: var(--surface);
@@ -190,14 +191,15 @@ body {
 
 .experience-logo {
   flex: 0 0 auto;
-  width: 58px;
-  height: 58px;
-  border-radius: 8px;
+  width: auto;
+  max-width: 88%;
+  height: 62px;
+  margin: 0 auto;
   object-fit: contain;
 }
 
 .experience-logo--wide {
-  width: 68px;
+  width: auto;
 }
 
 .experience-info {
@@ -594,16 +596,16 @@ a:hover,
   }
 
   .experience-card {
-    align-items: flex-start;
-    min-height: 112px;
-    gap: 0.75rem;
-    padding: 0.85rem;
+    min-height: 0;
+    gap: 0.8rem;
+    padding: 1rem;
   }
 
   .experience-logo,
   .experience-logo--wide {
-    width: 68px;
-    height: 60px;
+    width: auto;
+    max-width: 82%;
+    height: 64px;
   }
 
   .entry-date {

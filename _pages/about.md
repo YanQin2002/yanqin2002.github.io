@@ -30,7 +30,6 @@ redirect_from:
   <article class="experience-card">
     <img src="/files/institute/hkustgz.png" alt="HKUST Guangzhou logo" class="experience-logo experience-logo--wide">
     <div class="experience-info">
-      <strong>The Hong Kong University of Science and Technology (Guangzhou)</strong>
       <span class="entry-date">Jan. 2026 – Jul. 2029 (expected)</span>
       <span class="experience-detail">PhD Student · Humanoid Computing Lab · <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/" target="_blank" rel="noopener">Robotics and Autonomous Systems</a> · Prof. Renjing Xu</span>
     </div>
@@ -39,8 +38,7 @@ redirect_from:
   <article class="experience-card">
     <img src="/files/institute/hkust.png" alt="HKUST logo" class="experience-logo experience-logo--wide">
     <div class="experience-info">
-      <strong>The Hong Kong University of Science and Technology</strong>
-      <span class="entry-date">Aug. 2024 – Oct. 2025 (quit)</span>
+      <span class="entry-date">Aug. 2024 – Oct. 2025 (withdrew)</span>
       <span class="experience-detail">PhD Student · <a href="https://ece.hkust.edu.hk/" target="_blank" rel="noopener">Electronic &amp; Computer Engineering</a></span>
     </div>
   </article>
@@ -48,7 +46,6 @@ redirect_from:
   <article class="experience-card">
     <img src="/files/institute/szu.jpg" alt="Shenzhen University logo" class="experience-logo experience-logo--wide">
     <div class="experience-info">
-      <strong>Shenzhen University</strong>
       <span class="entry-date">Sep. 2020 – Jun. 2024</span>
       <span class="experience-detail">B.Sc. in Physics · <a href="https://cpoe.szu.edu.cn/en/" target="_blank" rel="noopener">College of Physics and Optoelectronic Engineering</a></span>
     </div>
