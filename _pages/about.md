@@ -59,6 +59,8 @@ redirect_from:
 
 <p class="publication-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p>
 
+<h3 class="publication-group-title" id="first-author-publications">First &amp; Co-first Author</h3>
+
 <article class="publication-card featured">
   <div class="publication-card__inner">
     <div class="pub-media"><img src="/files/work/2026-rmbench.jpg" alt="RMBench project preview"></div>
@@ -71,6 +73,57 @@ redirect_from:
         <a href="https://arxiv.org/pdf/2603.01229" target="_blank" rel="noopener">Paper</a>
         <a href="https://arxiv.org/abs/2603.01229" target="_blank" rel="noopener">arXiv</a>
         <a href="https://github.com/robotwin-Platform/rmbench" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="publication-card featured">
+  <div class="publication-card__inner">
+    <div class="pub-media"><img src="/files/work/2025-optical.webp" alt="Optical properties paper preview"></div>
+    <div class="publication-card__body">
+      <strong>Optical Properties of Two-Dimensional/Three-Dimensional Composite Perovskite Films</strong>
+      <p class="publication-authors"><b>Yan Qin</b>, Junzi Li, Juguang Hu<sup>†</sup>, Tingchao He<sup>†</sup></p>
+      <p class="publication-venue"><span class="venue-badge venue-badge--accent">The Journal of Physical Chemistry C</span></p>
+      <div class="publication-links"><a href="https://pubs.acs.org/doi/10.1021/acs.jpcc.3c07286" target="_blank" rel="noopener">Paper</a></div>
+    </div>
+  </div>
+</article>
+
+<h3 class="publication-group-title publication-group-title--secondary" id="collaborative-publications">Collaborative Work</h3>
+
+<article class="publication-card publication-card--video">
+  <div class="publication-card__inner">
+    <div class="pub-media pub-media--video">
+      <video controls muted playsinline preload="metadata" poster="https://media.luminis-sim.com/media/home/hero-poster.jpg" aria-label="RoboDojo simulation-and-real unified benchmark hero video">
+        <source src="https://media.luminis-sim.com/media/home/hero.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="publication-card__body">
+      <strong>RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies</strong>
+      <p class="publication-authors">Tianxing Chen, Yue Chen, Zixuan Li, Junyuan Tang, Kailun Su, Haoran Lu, Weijie Wan, Baijun Chen, Songling Liu, Haowen Yan, Honghao Su, Zhiyang Dou, Kaixuan Wang, Dandan Zhang, Yunze Liu, <b>Yan Qin</b>, …, Masayoshi Tomizuka</p>
+      <p class="publication-venue"><span class="venue-badge venue-badge--accent">arXiv 2026</span></p>
+      <div class="publication-links">
+        <a href="https://robodojo-benchmark.com/" target="_blank" rel="noopener">Project</a>
+        <a href="https://arxiv.org/pdf/2607.04434" target="_blank" rel="noopener">Paper</a>
+        <a href="https://arxiv.org/abs/2607.04434" target="_blank" rel="noopener">arXiv</a>
+        <a href="https://github.com/RoboDojo-Benchmark/RoboDojo" target="_blank" rel="noopener">Code</a>
+        <a href="https://robodojo-benchmark.com/leaderboard" target="_blank" rel="noopener">Leaderboard</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="publication-card">
+  <div class="publication-card__inner">
+    <div class="pub-media"><img src="/files/work/2026-echoarena.png" alt="EchoArena real-world, simulation, and world model evaluation overview"></div>
+    <div class="publication-card__body">
+      <strong>EchoArena: Learning World Models for Reliable VLA Policy Evaluation</strong>
+      <p class="publication-authors">Yu-Kai Wang, Kevin Zhang, Xiaowei Chi, Tianxing Chen, Siqiao Huang, Chuyao Fu, Tiecheng Guo, Peidong Jia, <b>Yan Qin</b>, Kuangzhi Ge, Siyuan Qian, Weishi Mi, Zezhong Qian, Jiajun Li, Qingpo Wuwu, Xiaozhu Ju, Jian Tang, Shanghang Zhang</p>
+      <p class="publication-venue"><span class="venue-badge venue-badge--accent">CVPR 2026 Workshop · GigaBrain Challenge · Poster Accepted</span></p>
+      <div class="publication-links">
+        <a href="https://openreview.net/forum?id=Oj8JooaUWG" target="_blank" rel="noopener">OpenReview</a>
+        <a href="https://openreview.net/pdf?id=Oj8JooaUWG" target="_blank" rel="noopener">PDF</a>
       </div>
     </div>
   </div>
@@ -116,18 +169,6 @@ redirect_from:
         <a href="https://arxiv.org/pdf/2601.18733" target="_blank" rel="noopener">Paper</a>
         <a href="https://arxiv.org/abs/2601.18733" target="_blank" rel="noopener">arXiv</a>
       </div>
-    </div>
-  </div>
-</article>
-
-<article class="publication-card featured">
-  <div class="publication-card__inner">
-    <div class="pub-media"><img src="/files/work/2025-optical.webp" alt="Optical properties paper preview"></div>
-    <div class="publication-card__body">
-      <strong>Optical Properties of Two-Dimensional/Three-Dimensional Composite Perovskite Films</strong>
-      <p class="publication-authors"><b>Yan Qin</b>, Junzi Li, Juguang Hu<sup>†</sup>, Tingchao He<sup>†</sup></p>
-      <p class="publication-venue"><span class="venue-badge venue-badge--accent">The Journal of Physical Chemistry C</span></p>
-      <div class="publication-links"><a href="https://pubs.acs.org/doi/10.1021/acs.jpcc.3c07286" target="_blank" rel="noopener">Paper</a></div>
     </div>
   </div>
 </article>
