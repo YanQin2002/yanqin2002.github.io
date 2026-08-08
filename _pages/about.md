@@ -40,7 +40,7 @@ redirect_from:
     <img src="/files/institute/hkust.png" alt="HKUST logo" class="experience-logo experience-logo--wide">
     <div class="experience-info">
       <strong>The Hong Kong University of Science and Technology</strong>
-      <span class="entry-date">Aug. 2024 – Oct. 2025</span>
+      <span class="entry-date">Aug. 2024 – Oct. 2025 (quit)</span>
       <span class="experience-detail">PhD Student · <a href="https://ece.hkust.edu.hk/" target="_blank" rel="noopener">Electronic &amp; Computer Engineering</a></span>
     </div>
   </article>
@@ -95,7 +95,7 @@ redirect_from:
 <article class="publication-card publication-card--video">
   <div class="publication-card__inner">
     <div class="pub-media pub-media--video">
-      <video controls muted playsinline preload="metadata" poster="https://media.luminis-sim.com/media/home/hero-poster.jpg" aria-label="RoboDojo simulation-and-real unified benchmark hero video">
+      <video autoplay controls muted playsinline preload="auto" poster="https://media.luminis-sim.com/media/home/hero-poster.jpg" aria-label="RoboDojo simulation-and-real unified benchmark hero video">
         <source src="https://media.luminis-sim.com/media/home/hero.mp4" type="video/mp4">
       </video>
     </div>
