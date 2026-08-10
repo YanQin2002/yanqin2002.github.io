@@ -38,7 +38,7 @@ redirect_from:
   <article class="experience-card">
     <img src="/files/institute/hkust.png" alt="HKUST logo" class="experience-logo experience-logo--wide">
     <div class="experience-info">
-      <span class="entry-date">Aug. 2024 – Oct. 2025 (withdrew)</span>
+      <span class="entry-date">Aug. 2024 – Oct. 2025 (drop out)</span>
       <span class="experience-detail">PhD Student · <a href="https://ece.hkust.edu.hk/" target="_blank" rel="noopener">Electronic &amp; Computer Engineering</a></span>
     </div>
   </article>
